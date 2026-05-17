@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./assets/bithesis_icon.svg" alt="BIThesis Icon">
 
-📖 [_非官方本科生毕业设计论文/研究生学位论文 LaTeX 模板（以及更多）_](https://bithesis.bitnp.net)[^1]
+📖 邓靖川练git使用[_非官方本科生毕业设计论文/研究生学位论文 LaTeX 模板（以及更多）_](https://bithesis.bitnp.net)[^1]
 
 [![GitHub all releases](https://img.shields.io/github/downloads/BITNP/BIThesis/total)](https://tooomm.github.io/github-release-stats/?username=BITNP&repository=BIThesis)
 [![English version](./assets/english.svg)](./README-bithesis.md)
